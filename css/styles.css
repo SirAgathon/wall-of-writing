@@ -3,8 +3,9 @@
     margin: 10px;
     width: fit-content;
     flex-shrink: 0;
-    height: 152px;
+    height: 153px;
     background-color: #121212;
+    z-index: 1000;
 
     li {
         padding: 10px;
@@ -37,4 +38,13 @@ h1 {
 
 #main-photo {
     position: absolute;
+}
+
+#buymeacoffee {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: none;
+    cursor: pointer;
+    z-index: 1000; /* Ensures it stays above other elements */
 }

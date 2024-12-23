@@ -16,6 +16,14 @@ document.addEventListener('DOMContentLoaded', function() {
         ['./static/images/14.png', 'Sailing into the sunset - Monterey, CA'],
         ['./static/images/15.png', 'Earth, Wind, & Water - Carmel-By-The-Sea, CA'],
         ['./static/images/16.png', 'Vanilla Twilight - Santa Cruz, CA'],
+        ['./static/images/17.png', 'Wat Pho - Bangkok, Thailand'],
+        ['./static/images/18.png', 'Texas Capitol - Austin, TX'],
+        ['./static/images/19.png', 'Tree Dwellers - CMU'],
+        ['./static/images/20.png', 'Jackie Chan - Bangkok, Thailand'],
+        ['./static/images/21.png', 'Upper McKinley Falls - Austin, TX'],
+        ['./static/images/22.png', 'Rest - Fremont, CA'],
+        ['./static/images/23.png', 'White Rock Lake - Dallas, TX'],
+        ['./static/images/24.png', 'PNC Stadium - Pittsburgh, PA']
 
     ];
 
